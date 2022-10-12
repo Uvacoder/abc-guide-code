@@ -12,6 +12,7 @@
   <a href="https://codeguide.co"><strong>Start reading ☞</strong></a>
 </p>
 
+codeguide.co
 ---
 
 ## Setup
